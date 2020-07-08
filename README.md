@@ -1,3 +1,3 @@
                                         The Monster Killer
 
-A javascript game
+                            ( A javascript, web game )
