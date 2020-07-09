@@ -56,7 +56,7 @@ button:focus {
 button:hover,
 button:active {
   background: pink;
-  border-color: #ff0062;
+  border-color: #a927f5;
 }
 
 #health-levels,
