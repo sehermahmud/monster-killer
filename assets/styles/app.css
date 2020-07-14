@@ -85,3 +85,28 @@ button:active {
   text-align: center;
   margin: 0 0.5rem;
 }
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: pink;
+  color: white;
+  text-align: center;
+}
+
+main {
+  margin-bottom: 10rem;
+}
+
+.github {
+  color: hotpink;
+  text-decoration: none;
+}
+
+.github:hover,
+.github:active {
+  color: red;
+  text-decoration: none;
+}
